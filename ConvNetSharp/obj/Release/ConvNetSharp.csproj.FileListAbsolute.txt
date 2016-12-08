@@ -1,0 +1,5 @@
+C:\Users\RustamSalakhutdinov\Documents\Visual Studio 2015\Projects\signatureChecker\ConvNetSharp\bin\Release\ConvNetSharp.dll.config
+C:\Users\RustamSalakhutdinov\Documents\Visual Studio 2015\Projects\signatureChecker\ConvNetSharp\bin\Release\ConvNetSharp.dll
+C:\Users\RustamSalakhutdinov\Documents\Visual Studio 2015\Projects\signatureChecker\ConvNetSharp\bin\Release\ConvNetSharp.pdb
+C:\Users\RustamSalakhutdinov\Documents\Visual Studio 2015\Projects\signatureChecker\ConvNetSharp\obj\Release\ConvNetSharp.dll
+C:\Users\RustamSalakhutdinov\Documents\Visual Studio 2015\Projects\signatureChecker\ConvNetSharp\obj\Release\ConvNetSharp.pdb

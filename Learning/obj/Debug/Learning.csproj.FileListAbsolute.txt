@@ -1,0 +1,8 @@
+C:\Users\RustamSalakhutdinov\documents\visual studio 2015\Projects\signatureChecker\Learning\bin\Debug\Learning.exe.config
+C:\Users\RustamSalakhutdinov\documents\visual studio 2015\Projects\signatureChecker\Learning\bin\Debug\Learning.exe
+C:\Users\RustamSalakhutdinov\documents\visual studio 2015\Projects\signatureChecker\Learning\bin\Debug\Learning.pdb
+C:\Users\RustamSalakhutdinov\documents\visual studio 2015\Projects\signatureChecker\Learning\bin\Debug\ConvNetSharp.dll
+C:\Users\RustamSalakhutdinov\documents\visual studio 2015\Projects\signatureChecker\Learning\bin\Debug\ConvNetSharp.pdb
+C:\Users\RustamSalakhutdinov\documents\visual studio 2015\Projects\signatureChecker\Learning\obj\Debug\Learning.csprojResolveAssemblyReference.cache
+C:\Users\RustamSalakhutdinov\documents\visual studio 2015\Projects\signatureChecker\Learning\obj\Debug\Learning.exe
+C:\Users\RustamSalakhutdinov\documents\visual studio 2015\Projects\signatureChecker\Learning\obj\Debug\Learning.pdb

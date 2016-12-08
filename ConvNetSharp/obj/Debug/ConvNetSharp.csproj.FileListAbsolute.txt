@@ -1,0 +1,6 @@
+D:\ConvNetSharp\src\ConvNetSharp\bin\Debug\ConvNetSharp.dll.config
+D:\ConvNetSharp\src\ConvNetSharp\bin\Debug\ConvNetSharp.dll
+D:\ConvNetSharp\src\ConvNetSharp\bin\Debug\ConvNetSharp.pdb
+D:\ConvNetSharp\src\ConvNetSharp\obj\Debug\ConvNetSharp.csprojResolveAssemblyReference.cache
+D:\ConvNetSharp\src\ConvNetSharp\obj\Debug\ConvNetSharp.dll
+D:\ConvNetSharp\src\ConvNetSharp\obj\Debug\ConvNetSharp.pdb
