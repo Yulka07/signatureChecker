@@ -5,7 +5,7 @@ using System.Linq;
 using Learning.Entities;
 
 namespace Learning.Managers
-{
+{ 
 	public static class ConvertingDataManager
 	{
 		public static void ConvertDirectory(string dataDirectoryPath)
